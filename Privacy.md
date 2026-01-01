@@ -1,6 +1,6 @@
 # Privacy Policy for Alice
 
-**Effective Date: 06/08/2025**
+**Effective Date: 01/01/2026**
 
 ## 1. Introduction
 
