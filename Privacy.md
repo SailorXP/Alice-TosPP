@@ -37,7 +37,8 @@ The information collected is used exclusively to:
 
 ## 6. Premium Access and Payments
 
-Premium features are available exclusively through cryptocurrency payments. Ko-fi and other third-party payment platforms are not supported. User IDs are used solely to verify premium status. Alice does not collect or store any payment or wallet information.
+Premium features are available through Buy Me a Coffee, a third-party payment platform. Alice uses Discord User IDs solely to verify premium status.
+Alice does not collect, process, or store any payment information, billing details, or financial data. All payments are handled directly by Buy Me a Coffee and are subject to their terms and privacy policy.
 
 ## 7. Data Sharing and Disclosure
 
