@@ -45,11 +45,12 @@ No other personal data is collected or stored. Data is not sold or shared with t
 
 ## 7. Premium Features and Payments
 
-Premium features are accessible exclusively through cryptocurrency payments. Ko-fi and other third-party payment platforms are not supported. By purchasing premium access, you agree to the terms and conditions of the selected cryptocurrency payment provider. User IDs are collected for premium verification purposes only. Alice does not collect or store payment or wallet information.
+Premium features are available through Buy Me a Coffee, a third-party platform. Payments are processed entirely by Buy Me a Coffee. Alice does not collect or store payment or billing information.
+Discord User IDs are used only to verify premium status. All purchases are subject to Buy Me a Coffee’s own terms and policies.
 
 ## 8. Account Security and User Responsibility
 
-You are solely responsible for maintaining the confidentiality of your Discord account credentials and for all activities that occur under your account. You agree to notify us immediately of any unauthorized use or security breach. Alice is not liable for any loss or damage arising from your failure to comply with this section.
+You are solely responsible for maintaining your Discord account credentials and for all activities that happen under your account. You agree to notify us immediately of any unauthorized use or security breach. Alice is not liable for any loss or damage arising from your failure to comply with this section.
 
 ## 9. Termination, Suspension, and Blacklisting
 
